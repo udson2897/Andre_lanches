@@ -303,7 +303,7 @@ principal do site **/
     height: 200px;
    
     /** Configura uma imagem de fundo da promoção **/
-    background-image: url('/img/promocao.jpg');
+    background-image: url('/promocao.jpg');
     background-size: 33%;
     
     
